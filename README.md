@@ -98,3 +98,42 @@ Machine learning is a subset of artificial intelligence that builds predictive m
 **Confusion Matrix**: [[15 17]
                       [ 0 73]]
 
+
+
+---
+
+### 🔍 PCA + Logistic Regression Experiment
+
+An additional experiment using PCA and Logistic Regression showed:
+
+- **Best PCA Components**: 7  
+- **Best C Value**: ≈ 0.046  
+- **Best Cross-Validation Score**: **75.7%**
+
+> ⚠️ Note: A `DeprecationWarning` was triggered from `DataFrameGroupBy.apply`. It doesn't affect results but may need future update.
+
+---
+
+## 🙋‍♀️ About Me
+
+**👩‍💻 Name:** Ahad Almufareh  
+**🎓 Project Type:** University Graduation Project  
+**📚 Title:** Loan Prediction with Machine Learning  
+**🔍 Specialty:** Data Science & Machine Learning
+
+---
+
+## 📥 How to Use
+
+> This project runs in a Jupyter notebook. You’ll need:
+- The dataset (`BankData.csv`)
+- Python with libraries: `pandas`, `numpy`, `sklearn`, `matplotlib`, `seaborn`
+- Run the notebook and follow the input prompts for live prediction!
+
+---
+
+## 📎 License
+
+This project is for educational purposes only and may not be suitable for production use.
+
+---
